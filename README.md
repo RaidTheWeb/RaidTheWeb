@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raidtheweb&label=Profile%20views&color=0e75b6&style=flat" alt="raidtheweb" /> </p>
 
-- 🔭 I’m currently working on [CobraOS](https://github.com/cobrasys/cobraos)
-
-- 🌱 I’m currently learning **Web Assembly**
+- 🔭 I’m currently working on DSLScript
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **python, discord.py, javascript, discord.js**
 
