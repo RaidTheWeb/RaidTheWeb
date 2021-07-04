@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raidtheweb&label=Profile%20views&color=0e75b6&style=flat" alt="raidtheweb" /> </p>
 
-- 🔭 I’m currently working on ACULOS
-- 🌱 I’m currently learning **C++ and OSDev**
+- 🔭 I’m currently working on something secret.
+- 🌱 I’m currently learning **Why humanity is somewhat a disappointment**
 
 - 💬 Ask me about **python, discord.py, javascript, discord.js, c++, java, os development**
 
