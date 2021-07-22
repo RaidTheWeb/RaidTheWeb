@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Something secret :0**
 
-- 🌱 I’m currently learning **Assembler programming an CPU instruction set development**
+- 🌱 I’m currently learning **Assembler programming and CPU instruction set development**
 
 - 👨‍💻 Some of my best projects are available at [https://raidtheweb.tech/projects](https://raidtheweb.tech/projects)
 
