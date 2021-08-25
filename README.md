@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raidtheweb&label=Profile%20views&color=0e75b6&style=flat" alt="raidtheweb" /> </p>
 
-- 🔭 I’m currently working on **Something secret :0**
+- 🔭 I’m currently working on **Akulang**
 
-- 🌱 I’m currently learning **Assembler programming and CPU instruction set development**
+- 🌱 I’m currently learning **Low Level programming language development**
 
 - 👨‍💻 Some of my best projects are available at [https://raidtheweb.tech/projects](https://raidtheweb.tech/projects)
 
-- 💬 Ask me about **OSDev, Java, or Assembly**
+- 💬 Ask me about **OSDev, Java, Aku, C, C++, or Assembly**
 
 - 📫 How to reach me **therealraidtheweb@gmail.com**
 
-- ⚡ Fun fact **Making a Hex Editor in java is hard**
+- ⚡ Fun fact **Making a Hex Editor in Java is hard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
