@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raidtheweb&label=Profile%20views&color=0e75b6&style=flat" alt="raidtheweb" /> </p>
 
-- 🔭 I’m currently working on **Akulang**
+- 🔭 I’m currently working on **Papyrus**
 
-- 🌱 I’m currently learning **Low Level programming language development**
+- 🌱 I’m currently learning **The Minecraft Server Protocol**
 
 - 👨‍💻 Some of my best projects are available at [https://raidtheweb.tech/projects](https://raidtheweb.tech/projects)
 
 - 💬 Ask me about **OSDev, Java, Aku, C, C++, or Assembly**
 
-- 📫 How to reach me **therealraidtheweb@gmail.com**
+- 📫 Reach me at **therealraidtheweb@gmail.com**
 
 - ⚡ Fun fact **Making a Hex Editor in Java is hard**
 
