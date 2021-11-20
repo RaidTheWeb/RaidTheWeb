@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raidtheweb&label=Profile%20views&color=0e75b6&style=flat" alt="raidtheweb" /> </p>
 
-- 🔭 I’m currently working on **Papyrus**
+- 🔭 I’m currently working on **SSRE Wiki**
 
-- 🌱 I’m currently learning **The Minecraft Server Protocol**
+- 🌱 I’m currently learning **The Shellshock.io Protocol**
 
 - 👨‍💻 Some of my best projects are available at [https://raidtheweb.tech/projects](https://raidtheweb.tech/projects)
 
