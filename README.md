@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm RaidTheWeb</h1>
-<h3 align="center">Web Developer, Low Level Systems Developer, and OSDev</h3>
+<h3 align="center">OSDev, Web Developer, Low Level Systems Developer, and avid programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raidtheweb&label=Profile%20views&color=0e75b6&style=flat" alt="raidtheweb" /> </p>
 
-- 🔭 I’m currently working on **SSRE Wiki**
+- 🔭 I’m currently working on **my OS**
 
-- 🌱 I’m currently learning **The Shellshock.io Protocol**
+- 🌱 I’m currently learning **OSDev**
 
 - 👨‍💻 Some of my best projects are available at [https://raidtheweb.tech/projects](https://raidtheweb.tech/projects)
 
@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **therealraidtheweb@gmail.com**
 
-- ⚡ Fun fact **Making a Hex Editor in Java is hard**
+- ⚡ Fun fact **Managarm is pretty cool!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
