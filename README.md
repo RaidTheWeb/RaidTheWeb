@@ -5,8 +5,6 @@
 
 I do stuff and things.
 
-<a rel="me" href="https://mstdn.starnix.network/@rtw">Mastodon</a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raidtheweb&show_icons=true&locale=en&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="raidtheweb" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=raidtheweb&show_icons=true&locale=en&layout=compact&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="raidtheweb" /></p>
